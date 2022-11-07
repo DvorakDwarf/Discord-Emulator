@@ -17,5 +17,5 @@ Also tell me if you are planning on hosting an event with this bot, I wanna see 
 
 Do what you want with the code, but credit would be much appreciated. Contact info in the profile
 
-I highly recommend naming the bot "The Observer" and giving it this pfp:
+It is not strcitly necessary, but I highly recommend naming the bot "The Observer" and giving it this pfp:
 ![EQ1p524U4AAAppn](https://user-images.githubusercontent.com/96934612/200225323-491c88e6-169c-4dc3-a62c-6c24bcf378c8.jpg)
