@@ -1,9 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
 # Discord-Emulator
-A discord bot that can be used to play any game boy game using the discord chat. The way the bot works is that the emulator runs on a seperate thread. When the bot sees somebody wants to press a button, it changes one of the bools in the dictionary to True. The game loop checks the dictionary for when one of the bools is True. When it detects a button is pressed, it sends input to the emulator and changes the button back to False. Rinse and repeat
+A discord bot that can be used to play any game boy game using the discord chat. The way the bot works is that the emulator runs on a seperate thread. When the bot sees somebody wants to press a button, it changes one of the bools in a dictionary to True. The game loop checks the dictionary for when one of the bools is True. When it detects a button is pressed, it sends input to the emulator and changes the button back to False. Rinse and repeat
 
-It will save periodically, depenidng on what you set it to. The default is a save each 10 minutes. IT WILL KEEP SAVING WHILE THE ENTIRE TIME THE PROGRAM IS ON. The save files weigh basically nothing, though. You should delete older ones periodically
+It will save periodically, depenidng on what you set it to. The default is a save each 10 minutes. IT WILL KEEP SAVING THE ENTIRE TIME THE PROGRAM IS ON. The save files weigh basically nothing, though. You should delete older ones periodically
 
 How to run it
 -----------------
