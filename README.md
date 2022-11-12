@@ -10,7 +10,7 @@ How to run it
 
 ![Peek 2022-11-06 17-50](https://user-images.githubusercontent.com/96934612/200225062-4a32658e-388e-4e9a-a67f-b6c3e2d10cea.gif)
 
-Put the path to your ROM in the relevant variable. Run observer.py to start the bot. It will ask you your token and the ID of the channel you want the bot to monitor for commands. After that it opens a window of the ROM running. Use {prefix}help to see a further description of the bot and what it does. Use {prefix}press [a, b, start, select, up, down, left, right] to press a button in the emulator. Somebody needs to screenshare the game window in the discord server for members to see anything
+Put the path to your ROM in the relevant variable. Run ```observer.py``` to start the bot. It will ask you your token and the ID of the channel you want the bot to monitor for commands. After that it opens a window of the ROM running. Use ```{prefix}help``` to see a further description of the bot and what it does. Use ```{prefix}press [a, b, start, select, up, down, left, right]``` to press a button in the emulator. Somebody needs to screenshare the game window in the discord server for members to see anything
 
 A more detailed description later. Contact me if you need help
 Also tell me if you are planning on hosting an event with this bot, I wanna see it.
